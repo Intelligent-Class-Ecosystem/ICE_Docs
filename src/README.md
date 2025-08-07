@@ -33,7 +33,7 @@ actions:
   <VPCard
     title="快速上手"
     desc="了解冰核智慧课堂生态系统的设备需求，以及如何在您的设备上安装冰核智慧课堂生态系统。"
-    link="./guide/setup"
+    link="./guide/install"
   />
 </div>
 

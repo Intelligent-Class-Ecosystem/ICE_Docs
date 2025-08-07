@@ -8,13 +8,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "ExamAware 文档",
-      description: "ExamAware 的文档",
+      title: "冰核智慧课堂生态系统 文档",
+      description: "冰核智慧课堂生态系统 的文档",
     },
     "/en-us/": {
       lang: "en-US",
-      title: "ExamAware Documentation",
-      description: "documentation of ExamAware",
+      title: "ICE Documentation",
+      description: "documentation of ICE",
     },
   },
 

@@ -3,10 +3,10 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://docs.ExamAware.tech",
+  hostname: "",
 
   author: {
-    name: "ExamAware 团队",
+    name: "冰核智慧课堂生态系统团队",
     url: "https://www.examaware.cn",
   },
 
@@ -39,10 +39,8 @@ export default hopeTheme({
 
       //  autocorrect-disable
       footer: 
-          "Copyright (c) 2025 ExamAware | " +
-          '本文档以 CC BY-NC-SA 4.0 许可协议授权。'+
-          '<br/>' +
-          '<a href="https://beian.miit.gov.cn/" target="_blank">津ICP备2025035356号-7</a>',
+          "Copyright (c) 2025 ICE | " +
+          '本文档以 CC BY-NC-SA 4.0 许可协议授权。',
       //  autocorrect-enable
 
       displayFooter: true,
@@ -66,7 +64,7 @@ export default hopeTheme({
     // // 注意：仅用于测试！你必须自行生成并在生产环境中使用自己的评论服务
     // comment: {
     //   provider: "Giscus",
-    //   repo: "ExamAware/ExamAware-docs-giscuz",
+    //   repo: "Intelligent-Class-Ecosystem/ICE_Docs",
     //   repoId: "R_kgDOMp3pZg",
     //   category: "Announcements",
     //   categoryId: "DIC_kwDOMp3pZs4CiBuf",

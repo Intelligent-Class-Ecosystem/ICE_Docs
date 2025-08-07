@@ -8,86 +8,17 @@ export const zhSidebar = sidebar({
       link: "index.md",
     },
   ],
-  "/app/": [
+  "/guide/": [
     {
-      icon: "fa-solid fa-lightbulb",
-      text: "客户端",
+      text: "快速上手",
+      icon: "guide",
+      prefix: "guide/",
       children: [
-        "README.md",
-        "setup.md",
         {
-          text: "桌面端",
-          collapsible: true,
-          expanded: true,
-          prefix: "desktop/",
-          children: [
-            "README.md",
-          ],
-          icon: "desktop"
+          text: "安装",
+          icon: "install",
+          link: "install.md",
         },
-        {
-          text: "网页端",
-          collapsible: true,
-          expanded: true,
-          prefix: "web/",
-          children: [
-            "README.md",
-            "web-deploy.md",
-          ],
-          icon: "globe"
-        },
-        "config-edited.md",
-      ],
-    },
-  ],
-  "/management/": [
-    {
-      text: "集控",
-      children: [
-        "README.md",
-        {
-
-          text: "考试看板云管理",
-          collapsible: true,
-          expanded: true,
-          prefix: "examschedule-management/",
-          children: [
-            "README.md",
-            {
-              text: "部署教程",
-              link: "web-deploy.md",
-              icon: "fa-solid fa-file-lines"
-            },
-          ],
-          icon: "fa-solid fa-file-lines"
-        },
-        {
-          text: "静态托管",
-          collapsible: true,
-          expanded: true,
-          prefix: "examshowboard/",
-          children: [
-            "static-config.md",
-          ],
-          icon: "fa-solid fa-file-lines"
-        },
-        {
-          text: "加入集控",
-          link: "Join-management.md",
-          icon: "fa-solid fa-file-lines"
-        },
-      ],
-    },
-  ],
-  "/about/": [
-    {
-      text: "关于",
-      children: [
-        "README.md",
-        "contributing.md",
-        "sponsor.md",
-        "community.md",
-        "rules.md",
       ],
     },
   ],
