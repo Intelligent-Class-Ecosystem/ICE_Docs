@@ -9,25 +9,19 @@ heroImageStyle:
 # bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 冰核智慧课堂生态系统 文档
-tagline: 冰核智慧课堂生态系统，致力于打造校园一体化教育技术平台，贯通校园终端实现互联互通，打造属于校园的智能生态系统。
+heroText: 冰核智慧课堂生态系统
+tagline: 致力于打造一体化的校园教育技术平台
 actions:
   - text: 快速上手
     icon: lightbulb
-    link: ./guide/
+    link: /install/
     type: primary
 
-  - text: 官网
-    link: https://github.com/Intelligent-Class-Ecosystem
-  - text: GitHub 仓库
+  - text: 功能速查表
     link: https://github.com/Intelligent-Class-Ecosystem
 ---
 
-欢迎来到 冰核智慧课堂生态系统 的文档。
-
-冰核智慧课堂生态系统，致力于打造校园一体化教育技术平台，贯通校园终端实现互联互通，打造属于校园的智能生态系统。
-
-## 开始使用
+## 搭建指南
 
 <div class="vp-card-container">
   <VPCard
@@ -37,17 +31,3 @@ actions:
   />
 </div>
 
-如果您要进一步了解本软件，您可以继续阅读本文档。
-
-## 目录
-
-本文档包含以下部分：
-
-<div class="vp-card-container">
-  <VPCard
-    title="快速上手"
-    desc="了解如何上手冰核智慧课堂生态系统的使用方法。"
-    link="./guide/"
-  />
-
-</div>

@@ -1,8 +1,8 @@
 {
-  "name": "ExamAware-docs",
-  "description": "A project of vuepress-theme-hope",
+  "name": "ICE-Docs",
+  "description": "ICE的文档站",
   "version": "2.0.0",
-  "license": "GPL-3.0-only",
+  "license": "GPLv3",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress-vite build src",

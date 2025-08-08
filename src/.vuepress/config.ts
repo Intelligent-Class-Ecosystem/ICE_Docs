@@ -8,10 +8,10 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "冰核智慧课堂生态系统 文档",
-      description: "冰核智慧课堂生态系统 的文档",
+      title: "Intelligent Class Ecosystem",
+      description: "ICE文档站",
     },
-    "/en-us/": {
+    "/en/": {
       lang: "en-US",
       title: "ICE Documentation",
       description: "documentation of ICE",

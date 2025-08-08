@@ -1,5 +1,5 @@
 ---
-title: 快速上手
+title: 部署指南
 index: false
 icon: install
 category:
