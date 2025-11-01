@@ -28,6 +28,11 @@
 ### 提交文档修改
 欢迎您向本仓库提交 [Pull Request](https://github.com/Intelligent-Class-Ecosystem/ICE_Docs/pulls)。
 
+## 赞助商 / Sponsor
+[![stcn](src/.vuepress/public/sponsor/stcn.png)](https://forum.smart-teach.cn/)
+
+[![szys](src/.vuepress/public/sponsor/szys.png)](https://www.yesongit.com)
+
 ## 许可证
 
 本项目使用GPLv3开源许可证
